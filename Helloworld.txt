@@ -1,0 +1,13 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is F42A-3C16
+
+ Directory of C:\Temp\git3\HelloWorld
+
+08/04/2018  08:11 PM    <DIR>          .
+08/04/2018  08:11 PM    <DIR>          ..
+08/04/2018  07:27 PM               426 HelloWorld.class
+08/04/2018  07:27 PM               182 HelloWorld.java
+08/04/2018  08:11 PM                 0 Helloworld.txt
+08/04/2018  07:27 PM               468 readme1.txt
+               4 File(s)          1,076 bytes
+               2 Dir(s)  22,704,132,096 bytes free
